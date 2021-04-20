@@ -1,5 +1,5 @@
-#Made By : VIJAY 
-#My andriod games id : Andriod38932819
+#Made By : SOUL 
+#My GOOGLE PLAY ID : SOULXGAMING96
 
 import bs
 from bsMap import *
